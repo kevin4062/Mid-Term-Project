@@ -4,6 +4,16 @@ body{
     background-size:180px;
     
 }
+h1 {
+      position:fixed;
+    }
+
+    p {
+      position:fixed;
+    }
+h2  {
+      position:fixed;
+    }
 
 my-table {
     background-color: #ffffff;
