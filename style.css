@@ -6,11 +6,11 @@ body{
 }
 
 my-table {
-    background-color: #ffebb5;
+    background-color: #ffffff;
     border-radius: 16px;
-    box-shadow: inset 0 0 8px #deb13a;
-    border-collapse: separate #deb13a;
-    border: 1px solid #ffebb5;
+    box-shadow: inset 0 0 8px #E6E6E6;
+    border-collapse: separate #E6E6E6;
+    border: 1px solid #ffffff;
 }
   
   .my-table th, .my-table td {
